@@ -1,0 +1,20 @@
+.ImageButton {
+    background-color: rgb(255, 0, 0);
+    width: 30vw;
+    height: 30vw;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+.ImageButton h1 {
+    color: rgb(245, 242, 242);
+    font-size: 3vw;
+}
+
+.ImageButton img {
+    width: 60%;
+}
+
+.ImageButton:hover {
+    background-color: rgb(139, 0, 0);
+    cursor: pointer;
+}
